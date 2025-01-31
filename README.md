@@ -9,7 +9,7 @@
 
 ### 🔧 Skills & Technologies ###
 - **Languages:** Python, Bash, PHP, Java, C and Assembly 
-- **Web Development:** HTML, CSS, React, PHP, JSON 
+- **Web Development:** HTML, CSS, React, JSON 
 - **Tools:** Kali, Nmap, Wireshark, Burp Suite, Hydra, MySQL, NetCat, Social Engineering Toolkit, MetaSploit
 - **Operating Systems:** Windows, Linux, Windows Server
 
