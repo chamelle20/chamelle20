@@ -32,7 +32,7 @@
 - **Web Development:** HTML, CSS, React, PHP, JSON 
 - **Tools:** Kali, Nmap, Wireshark, Burp Suite, Hydra, MySQL, NetCat, Social Engineering Toolkit
 - **Operating Systems:** Windows, Linux, Windows Server
-- 
+  
 ### 📂 Non Cyber Related Projects ###  
 📌 **Websites I Have Built (GitHub Repo Link)**   
 📌 **AI Sports Gambling API (GitHub Repo Link)** – Project that uses AI for a edge in Sports Betting. Constantly Scrapping data from sports books and stats sites. 
