@@ -5,7 +5,13 @@
 ### 🛠️ About Me ### 
 - 💻 Currently studying Cyber Security at Nova Scotia Community College  
 - 🏗️ Building projects in Python, Bash, PHP, Java, C and Assembly  
-- 🎯 Looking for opportunities in Risk Management, Penetration Testing, Foreign or Domestic Intelligence Analysis  
+- 🎯 Looking for opportunities in Risk Management, Penetration Testing and Foreign or Domestic Intelligence Analysis
+
+### 🔧 Skills & Technologies ###
+- **Languages:** Python, Bash, PHP, Java, C and Assembly 
+- **Web Development:** HTML, CSS, React, PHP, JSON 
+- **Tools:** Kali, Nmap, Wireshark, Burp Suite, Hydra, MySQL, NetCat, Social Engineering Toolkit, MetaSploit
+- **Operating Systems:** Windows, Linux, Windows Server
 
 ### 🚀 My Current Key Areas of Focus In Cyber Security ###
 - **Server Exploits:**
@@ -26,12 +32,6 @@
 - Shell Scripts
 - Managing Permissions
 - Creating Malicious Scripts
-
-### 🔧 Skills & Technologies ###
-- **Languages:** Python, Bash, PHP, Java, C and Assembly 
-- **Web Development:** HTML, CSS, React, PHP, JSON 
-- **Tools:** Kali, Nmap, Wireshark, Burp Suite, Hydra, MySQL, NetCat, Social Engineering Toolkit
-- **Operating Systems:** Windows, Linux, Windows Server
   
 ### 📂 Non Cyber Related Projects ###  
 📌 **Websites I Have Built ([GitHub Repo Link](https://github.com/chamelle20/Websites-I-Have-Built/blob/main/README.md))**   
