@@ -35,7 +35,7 @@
   
 ### 📂 Non Cyber Related Projects ###  
 📌 **Websites I Have Built (GitHub Repo Link)**   
-📌 **AI Sports Gambling API (GitHub Repo Link)** – Project that uses AI for a edge in Sports Betting. Constantly Scrapping data from sports books and stats sites. 
+
 
 ### 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alex-hendren-8467a7300/)  
