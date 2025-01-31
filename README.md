@@ -34,8 +34,9 @@
 - Creating Malicious Scripts
   
 ### 📂 Non Cyber Related Projects ###  
-📌 **Websites I Have Built ([GitHub Repo Link](https://github.com/chamelle20/Websites-I-Have-Built/blob/main/README.md))** 
-📌 **[My Portfolio](https://github.com/chamelle20/Portfolio)** – Another project
+📌 **Websites I Have Built ([GitHub Repo Link](https://github.com/chamelle20/Websites-I-Have-Built/blob/main/README.md))**
+
+📌 **[My Portfolio](https://github.com/chamelle20/Portfolio)** – Showcasing what I have done in school, as well as personal projects
 
 
 ### 📫 Connect With Me  
